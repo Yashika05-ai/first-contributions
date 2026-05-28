@@ -1167,3 +1167,4 @@
 - [Akshat Mishra](https://github.com/Bixquix)
 - [Gaurav Singh](https://github.com/gauravsingh8026)
 - [Gaurav Dhapola](https://github.com/Gaurav2327)
+- [Yashika Mallik](https://github.com/Yashika05-ai)
